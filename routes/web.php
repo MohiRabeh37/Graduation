@@ -67,7 +67,7 @@ Route::get('segment/test',function(Illuminate\Support\Facades\Request $request){
 
 
 
-Route::get('books','adminauth@books');
+Route::get('books','admin\adminauth@books');
 Route::get('delete/user/{id}','adminauth2@Deleteuser');
 
 

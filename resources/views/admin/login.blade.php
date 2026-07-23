@@ -82,9 +82,7 @@
    
 
     <a href="{{ aurl('forgot/password') }}">I forgot my password</a><br>
-        <a href="{{ aurl('register') }}">Sign Up</a><br>
-
-   
+    <a href="{{ aurl('register') }}">Sign Up</a><br>
    </div>
   </div>
 
